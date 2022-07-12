@@ -35,7 +35,6 @@ function App() {
       {/* add the <Home> component here */}
       <Home />
       {/* add your <About> component here */}
-      <About />
     </div>
   );
 }

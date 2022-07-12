@@ -33,9 +33,8 @@ function App() {
     <div>
       <NavBar />
       {/* add the <Home> component here */}
-      <Home />
+      <Home
       {/* add your <About> component here */}
-      <About />
     </div>
   );
 }
